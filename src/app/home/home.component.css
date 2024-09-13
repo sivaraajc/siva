@@ -144,7 +144,7 @@ nav ul li:hover::after {
 .hero-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
     border-radius: 50%;
     display: block;
     position: absolute;
@@ -171,8 +171,6 @@ nav ul li:hover::after {
         height: 150px;
     }
 }
-
-
 
 
 @keyframes fadeInDown {
